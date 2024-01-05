@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://skywin77.go.id.jmarchini.org/sitemap.xml
